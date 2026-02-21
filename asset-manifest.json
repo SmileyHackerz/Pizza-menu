@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https://smileyhackerz.github.io/Pizza-menu/static/css/main.ec313818.css",
+    "main.js": "/https://smileyhackerz.github.io/Pizza-menu/static/js/main.f5de1fc8.js",
+    "index.html": "/https://smileyhackerz.github.io/Pizza-menu/index.html",
+    "main.ec313818.css.map": "/https://smileyhackerz.github.io/Pizza-menu/static/css/main.ec313818.css.map",
+    "main.f5de1fc8.js.map": "/https://smileyhackerz.github.io/Pizza-menu/static/js/main.f5de1fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec313818.css",
+    "static/js/main.f5de1fc8.js"
+  ]
+}
